@@ -1,0 +1,104 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="21cm" height="12cm" viewBox="-25 -25 590 362" preserveAspectRatio="xMinYMin meet">
+<!-- Wikimedia Bug #4388: title>Wallpaper group p31m</title -->
+  <desc>
+This is the structure diagram of the walpaper group p31m
+
+I, the creator of this work, hereby release it into the public domain.
+This applies worldwide.
+
+In case this is not legally possible, I grant anyone the right
+to use this work for any purpose, without any conditions.
+</desc>
+  <clipPath id="tile">
+    <polygon points="0,312 360,312 540,0 180,0"/>
+  </clipPath>
+  <g stroke="#000000" stroke-width="3" fill="none">
+    <g stroke="#999999" fill="#cccccc" clip-path="url(#tile)">
+      <g transform="translate(0,312) rotate(0) scale(-1,-1) translate(0,312) scale(-1,-1)">
+        <polygon points="0,312 180,208 360,312 "/>
+        <path stroke="#000000" fill="none" d="M 180 277.333333333333 m -20 10 l 40 0 0 -20 m -10 10 l 0 10"/>
+      </g>
+      <g transform="translate(0,312) rotate(0) translate(0,0) rotate(0) scale(-1,1) translate(0,312) scale(-1,-1)">
+        <polygon points="0,312 180,208 360,312 "/>
+        <path stroke="#000000" fill="none" d="M 180 277.333333333333 m -20 10 l 40 0 0 -20 m -10 10 l 0 10"/>
+      </g>
+      <g transform="translate(360,312) rotate(-120) scale(-1,-1) translate(0,312) scale(-1,-1)">
+        <polygon points="0,312 180,208 360,312 "/>
+        <path stroke="#000000" fill="none" d="M 180 277.333333333333 m -20 10 l 40 0 0 -20 m -10 10 l 0 10"/>
+      </g>
+      <g transform="translate(360,312) rotate(-120) translate(0,0) rotate(0) scale(-1,1) translate(0,312) scale(-1,-1)">
+        <polygon points="0,312 180,208 360,312 "/>
+        <path stroke="#000000" fill="none" d="M 180 277.333333333333 m -20 10 l 40 0 0 -20 m -10 10 l 0 10"/>
+      </g>
+      <g transform="translate(180,0) rotate(120) scale(-1,-1) translate(0,312) scale(-1,-1)">
+        <polygon points="0,312 180,208 360,312 "/>
+        <path stroke="#000000" fill="none" d="M 180 277.333333333333 m -20 10 l 40 0 0 -20 m -10 10 l 0 10"/>
+      </g>
+      <g transform="translate(180,0) rotate(120) translate(0,0) rotate(0) scale(-1,1) translate(0,312) scale(-1,-1)">
+        <polygon points="0,312 180,208 360,312 "/>
+        <path stroke="#000000" fill="none" d="M 180 277.333333333333 m -20 10 l 40 0 0 -20 m -10 10 l 0 10"/>
+      </g>
+      <g transform="translate(540,0) rotate(120) scale(-1,-1) translate(0,312) scale(-1,-1)">
+        <polygon points="0,312 180,208 360,312 "/>
+        <path stroke="#000000" fill="none" d="M 180 277.333333333333 m -20 10 l 40 0 0 -20 m -10 10 l 0 10"/>
+      </g>
+      <g transform="translate(540,0) rotate(120) translate(0,0) rotate(0) scale(-1,1) translate(0,312) scale(-1,-1)">
+        <polygon points="0,312 180,208 360,312 "/>
+        <path stroke="#000000" fill="none" d="M 180 277.333333333333 m -20 10 l 40 0 0 -20 m -10 10 l 0 10"/>
+      </g>
+      <g transform="translate(180,0) rotate(0) scale(-1,-1) translate(0,312) scale(-1,-1)">
+        <polygon points="0,312 180,208 360,312 "/>
+        <path stroke="#000000" fill="none" d="M 180 277.333333333333 m -20 10 l 40 0 0 -20 m -10 10 l 0 10"/>
+      </g>
+      <g transform="translate(180,0) rotate(0) translate(0,0) rotate(0) scale(-1,1) translate(0,312) scale(-1,-1)">
+        <polygon points="0,312 180,208 360,312 "/>
+        <path stroke="#000000" fill="none" d="M 180 277.333333333333 m -20 10 l 40 0 0 -20 m -10 10 l 0 10"/>
+      </g>
+      <g fill="#ffff00">
+        <polygon points="0,312 180,208 360,312 "/>
+        <path stroke="#000000" fill="none" d="M 180 277.333333333333 m -20 10 l 40 0 0 -20 m -10 10 l 0 10"/>
+      </g>
+    </g>
+    <g stroke="#009900" stroke-dasharray="15,10">
+      <desc>Line(s) of glide reflection</desc>
+      <polygon points="180,312 360,0 450,156 90,156 "/>
+    </g>
+    <g>
+      <desc>Line(s) of reflection</desc>
+      <g stroke-width="9">
+        <polyline points="360,312 0,312 180,0 360,312 540,0 180,0 "/>
+      </g>
+      <g stroke-width="4" stroke="#ff9999">
+        <polyline points="360,312 0,312 180,0 360,312 540,0 180,0 "/>
+      </g>
+    </g>
+    <g fill="#0000ff">
+      <desc>Center(s) of threefold rotation</desc>
+      <g stroke="#ffffff" stroke-width="9">
+        <polygon points="-18,10.4 18,10.4 0,-20.8" transform="translate(180,208) rotate(180)"/>
+        <polygon points="-18,10.4 18,10.4 0,-20.8" transform="translate(360,104) rotate(180)"/>
+      </g>
+      <g>
+        <polygon points="-18,10.4 18,10.4 0,-20.8" transform="translate(180,208) rotate(180)"/>
+        <polygon points="-18,10.4 18,10.4 0,-20.8" transform="translate(360,104) rotate(180)"/>
+      </g>
+    </g>
+    <g fill="#ff0000">
+      <desc>Center(s) of threefold rotation</desc>
+      <g stroke="#ffffff" stroke-width="9">
+        <polygon points="-18,10.4 18,10.4 0,-20.8" transform="translate(0,312)"/>
+        <polygon points="-18,10.4 18,10.4 0,-20.8" transform="translate(180,0)"/>
+        <polygon points="-18,10.4 18,10.4 0,-20.8" transform="translate(360,312)"/>
+        <polygon points="-18,10.4 18,10.4 0,-20.8" transform="translate(540,0)"/>
+      </g>
+      <g>
+        <polygon points="-18,10.4 18,10.4 0,-20.8" transform="translate(0,312)"/>
+        <polygon points="-18,10.4 18,10.4 0,-20.8" transform="translate(180,0)"/>
+        <polygon points="-18,10.4 18,10.4 0,-20.8" transform="translate(360,312)"/>
+        <polygon points="-18,10.4 18,10.4 0,-20.8" transform="translate(540,0)"/>
+      </g>
+    </g>
+  </g>
+</svg>

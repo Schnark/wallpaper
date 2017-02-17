@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="21cm"
+   height="12cm"
+   viewBox="-25 -25 590 362"
+   preserveAspectRatio="xMinYMin meet"
+   id="svg3040"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="Wallpaper_group_diagram_cmm.svg">
+  <metadata
+     id="metadata3213">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3211" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1125"
+     inkscape:window-height="844"
+     id="namedview3209"
+     showgrid="false"
+     inkscape:zoom="1.3592669"
+     inkscape:cx="374.51043"
+     inkscape:cy="210.5717"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g3047" />
+  <!-- Wikimedia Bug #4388: title>Wallpaper group cmm</title -->
+  <desc
+     id="desc3042">
+This is the structure diagram of the walpaper group cmm
+
+I, the creator of this work, hereby release it into the public domain.
+This applies worldwide.
+
+In case this is not legally possible, I grant anyone the right
+to use this work for any purpose, without any conditions.
+</desc>
+  <clipPath
+     id="tile">
+    <polygon
+       points="0,312 360,312 540,0 180,0"
+       id="polygon3045" />
+  </clipPath>
+  <g
+     id="g3047"
+     transform="matrix(0.82425971,0.44735595,-0.47687679,0.77323428,145.68975,-87.630386)"
+     style="fill:none;stroke:#000000;stroke-width:3.25265694">
+    <g
+       clip-path="url(#tile)"
+       id="g3049"
+       style="fill:#cccccc;stroke:#999999;stroke-width:3.25265694">
+      <g
+         transform="matrix(0.5,-0.8660254,0.8660254,0.5,-270.19993,156)"
+         id="g3051"
+         style="stroke-width:3.25265694">
+        <polygon
+           points="360,312 270,156 0,312 "
+           id="polygon3053"
+           style="stroke-width:3.25265694" />
+        <path
+           d="m 210,260 m -20,10 40,0 0,-20 m -10,10 0,10"
+           id="path3055"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:3.25265694" />
+      </g>
+      <g
+         transform="matrix(0.5,-0.8660254,-0.8660254,-0.5,270.19993,468)"
+         id="g3057"
+         style="stroke-width:3.25265694">
+        <polygon
+           points="360,312 270,156 0,312 "
+           id="polygon3059"
+           style="stroke-width:3.25265694" />
+        <path
+           d="m 210,260 m -20,10 40,0 0,-20 m -10,10 0,10"
+           id="path3061"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:3.25265694" />
+      </g>
+      <g
+         transform="matrix(-1,0,0,-1,540,312)"
+         id="g3063"
+         style="stroke-width:3.25265694">
+        <polygon
+           points="360,312 270,156 0,312 "
+           id="polygon3065"
+           style="stroke-width:3.25265694" />
+        <path
+           d="m 210,260 m -20,10 40,0 0,-20 m -10,10 0,10"
+           id="path3067"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:3.25265694" />
+      </g>
+      <g
+         transform="matrix(-1,0,0,1,540,-312)"
+         id="g3069"
+         style="stroke-width:3.25265694">
+        <polygon
+           points="360,312 270,156 0,312 "
+           id="polygon3071"
+           style="stroke-width:3.25265694" />
+        <path
+           d="m 210,260 m -20,10 40,0 0,-20 m -10,10 0,10"
+           id="path3073"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:3.25265694" />
+      </g>
+      <g
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,810.19993,156)"
+         id="g3075"
+         style="stroke-width:3.25265694">
+        <polygon
+           points="360,312 270,156 0,312 "
+           id="polygon3077"
+           style="stroke-width:3.25265694" />
+        <path
+           d="m 210,260 m -20,10 40,0 0,-20 m -10,10 0,10"
+           id="path3079"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:3.25265694" />
+      </g>
+      <g
+         transform="matrix(-0.5,0.8660254,0.8660254,0.5,269.80007,-156)"
+         id="g3081"
+         style="stroke-width:3.25265694">
+        <polygon
+           points="360,312 270,156 0,312 "
+           id="polygon3083"
+           style="stroke-width:3.25265694" />
+        <path
+           d="m 210,260 m -20,10 40,0 0,-20 m -10,10 0,10"
+           id="path3085"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:3.25265694" />
+      </g>
+      <g
+         id="g3087"
+         style="fill:#ffff00;stroke-width:3.25265694">
+        <polygon
+           points="360,312 270,156 0,312 "
+           id="polygon3089"
+           style="stroke-width:3.25265694" />
+        <path
+           d="m 210,260 m -20,10 40,0 0,-20 m -10,10 0,10"
+           id="path3091"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:3.25265694" />
+      </g>
+    </g>
+    <g
+       id="g3093"
+       style="stroke:#990000;stroke-width:3.25265694;stroke-dasharray:16.2632849, 10.84218993">
+      <desc
+         id="desc3095">Line(s) of glide reflection</desc>
+      <line
+         x1="180"
+         y1="312"
+         x2="90"
+         y2="156"
+         id="line3097"
+         style="stroke-width:3.25265694" />
+      <line
+         x1="360"
+         y1="0"
+         x2="450"
+         y2="156"
+         id="line3099"
+         style="stroke-width:3.25265694" />
+    </g>
+    <g
+       id="g3101"
+       style="stroke:#000099;stroke-width:3.25265694;stroke-dasharray:16.2632849, 10.84218993">
+      <desc
+         id="desc3103">Line(s) of glide reflection</desc>
+      <line
+         x1="90"
+         y1="156"
+         x2="360"
+         y2="0"
+         id="line3105"
+         style="stroke-width:3.25265694" />
+      <line
+         x1="180"
+         y1="312"
+         x2="450"
+         y2="156"
+         id="line3107"
+         style="stroke-width:3.25265694" />
+    </g>
+    <g
+       id="g3109"
+       style="stroke-width:3.25265694">
+      <desc
+         id="desc3111">Line(s) of reflection</desc>
+      <g
+         id="g3113"
+         style="stroke-width:9.75797081">
+        <line
+           x1="0"
+           y1="312"
+           x2="540"
+           y2="0"
+           id="line3115"
+           style="stroke-width:9.75797081" />
+        <line
+           x1="333"
+           y1="327.60001"
+           x2="387"
+           y2="296.39999"
+           id="line3117"
+           style="stroke-width:9.75797081" />
+        <line
+           x1="153"
+           y1="15.6"
+           x2="207"
+           y2="-15.6"
+           id="line3119"
+           style="stroke-width:9.75797081" />
+      </g>
+      <g
+         id="g3121"
+         style="stroke:#9999ff;stroke-width:4.33687592">
+        <line
+           x1="0"
+           y1="312"
+           x2="540"
+           y2="0"
+           id="line3123"
+           style="stroke-width:4.33687592" />
+        <line
+           x1="333"
+           y1="327.60001"
+           x2="387"
+           y2="296.39999"
+           id="line3125"
+           style="stroke-width:4.33687592" />
+        <line
+           x1="153"
+           y1="15.6"
+           x2="207"
+           y2="-15.6"
+           id="line3127"
+           style="stroke-width:4.33687592" />
+      </g>
+    </g>
+    <g
+       id="g3129"
+       style="stroke-width:3.25265694">
+      <desc
+         id="desc3131">Line(s) of reflection</desc>
+      <g
+         id="g3133"
+         style="stroke-width:9.75797081">
+        <line
+           x1="360"
+           y1="312"
+           x2="180"
+           y2="0"
+           id="line3135"
+           style="stroke-width:9.75797081" />
+        <line
+           x1="-13.5"
+           y1="288.60001"
+           x2="13.5"
+           y2="335.39999"
+           id="line3137"
+           style="stroke-width:9.75797081" />
+        <line
+           x1="526.5"
+           y1="-23.4"
+           x2="553.5"
+           y2="23.4"
+           id="line3139"
+           style="stroke-width:9.75797081" />
+      </g>
+      <g
+         id="g3141"
+         style="stroke:#ff9999;stroke-width:4.33687592">
+        <line
+           x1="360"
+           y1="312"
+           x2="180"
+           y2="0"
+           id="line3143"
+           style="stroke-width:4.33687592" />
+        <line
+           x1="-13.5"
+           y1="288.60001"
+           x2="13.5"
+           y2="335.39999"
+           id="line3145"
+           style="stroke-width:4.33687592" />
+        <line
+           x1="526.5"
+           y1="-23.4"
+           x2="553.5"
+           y2="23.4"
+           id="line3147"
+           style="stroke-width:4.33687592" />
+      </g>
+    </g>
+    <g
+       id="g3149"
+       style="fill:#0000ff;stroke-width:3.25265694">
+      <desc
+         id="desc3151">Center(s) of twofold rotation</desc>
+      <g
+         id="g3153"
+         style="stroke:#ffffff;stroke-width:9.75797081">
+        <polygon
+           points="0,20 -10,0 0,-20 10,0 "
+           transform="translate(0,312)"
+           id="polygon3155"
+           style="stroke-width:9.75797081" />
+        <polygon
+           points="0,20 -10,0 0,-20 10,0 "
+           transform="translate(180,0)"
+           id="polygon3157"
+           style="stroke-width:9.75797081" />
+        <polygon
+           points="0,20 -10,0 0,-20 10,0 "
+           transform="translate(360,312)"
+           id="polygon3159"
+           style="stroke-width:9.75797081" />
+        <polygon
+           points="0,20 -10,0 0,-20 10,0 "
+           transform="translate(540,0)"
+           id="polygon3161"
+           style="stroke-width:9.75797081" />
+      </g>
+      <g
+         id="g3163"
+         style="stroke-width:3.25265694">
+        <polygon
+           points="0,20 -10,0 0,-20 10,0 "
+           transform="translate(0,312)"
+           id="polygon3165"
+           style="stroke-width:3.25265694" />
+        <polygon
+           points="0,20 -10,0 0,-20 10,0 "
+           transform="translate(180,0)"
+           id="polygon3167"
+           style="stroke-width:3.25265694" />
+        <polygon
+           points="0,20 -10,0 0,-20 10,0 "
+           transform="translate(360,312)"
+           id="polygon3169"
+           style="stroke-width:3.25265694" />
+        <polygon
+           points="0,20 -10,0 0,-20 10,0 "
+           transform="translate(540,0)"
+           id="polygon3171"
+           style="stroke-width:3.25265694" />
+      </g>
+    </g>
+    <g
+       id="g3173"
+       style="fill:#ff0000;stroke-width:3.25265694">
+      <desc
+         id="desc3175">Center(s) of twofold rotation</desc>
+      <g
+         id="g3177"
+         style="stroke:#ffffff;stroke-width:9.75797081">
+        <polygon
+           points="0,20 -10,0 0,-20 10,0 "
+           transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,270,156)"
+           id="polygon3179"
+           style="stroke-width:9.75797081" />
+      </g>
+      <g
+         id="g3181"
+         style="stroke-width:3.25265694">
+        <polygon
+           points="0,20 -10,0 0,-20 10,0 "
+           transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,270,156)"
+           id="polygon3183"
+           style="stroke-width:3.25265694" />
+      </g>
+    </g>
+    <g
+       id="g3185"
+       style="fill:#00ff00;stroke-width:3.25265694">
+      <desc
+         id="desc3187">Center(s) of twofold rotation</desc>
+      <g
+         id="g3189"
+         style="stroke:#ffffff;stroke-width:9.75797081">
+        <polygon
+           points="0,20 -10,0 0,-20 10,0 "
+           transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,180,312)"
+           id="polygon3191"
+           style="stroke-width:9.75797081" />
+        <polygon
+           points="0,20 -10,0 0,-20 10,0 "
+           transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,90,156)"
+           id="polygon3193"
+           style="stroke-width:9.75797081" />
+        <polygon
+           points="0,20 -10,0 0,-20 10,0 "
+           transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,450,156)"
+           id="polygon3195"
+           style="stroke-width:9.75797081" />
+        <polygon
+           points="0,20 -10,0 0,-20 10,0 "
+           transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,360,0)"
+           id="polygon3197"
+           style="stroke-width:9.75797081" />
+      </g>
+      <g
+         id="g3199"
+         style="stroke-width:3.25265694">
+        <polygon
+           points="0,20 -10,0 0,-20 10,0 "
+           transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,180,312)"
+           id="polygon3201"
+           style="stroke-width:3.25265694" />
+        <polygon
+           points="0,20 -10,0 0,-20 10,0 "
+           transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,90,156)"
+           id="polygon3203"
+           style="stroke-width:3.25265694" />
+        <polygon
+           points="0,20 -10,0 0,-20 10,0 "
+           transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,450,156)"
+           id="polygon3205"
+           style="stroke-width:3.25265694" />
+        <polygon
+           points="0,20 -10,0 0,-20 10,0 "
+           transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,360,0)"
+           id="polygon3207"
+           style="stroke-width:3.25265694" />
+      </g>
+    </g>
+  </g>
+</svg>

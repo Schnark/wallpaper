@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60" height="60" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<path id="line" stroke-width="1" stroke="#070" fill="none" d="M 0,0 C 10,-10 -10,-17 0,-27" />
+	</defs>
+	<g>
+		<circle cx="30" cy="30" r="27" stroke-width="0" fill="#0d0" />
+		<use x="0" y="0" transform="translate(30, 30) rotate(0)" xlink:href="#line" />
+		<use x="0" y="0" transform="translate(30, 30) rotate(60)" xlink:href="#line" />
+		<use x="0" y="0" transform="translate(30, 30) rotate(120)" xlink:href="#line" />
+		<use x="0" y="0" transform="translate(30, 30) rotate(180)" xlink:href="#line" />
+		<use x="0" y="0" transform="translate(30, 30) rotate(240)" xlink:href="#line" />
+		<use x="0" y="0" transform="translate(30, 30) rotate(300)" xlink:href="#line" />
+
+		<use x="0" y="0" transform="translate(53, 43) rotate(0)" xlink:href="#line" />
+		<use x="0" y="0" transform="translate(30, 57) rotate(60)" xlink:href="#line" />
+		<use x="0" y="0" transform="translate(7, 44) rotate(120)" xlink:href="#line" />
+		<use x="0" y="0" transform="translate(7, 16) rotate(180)" xlink:href="#line" />
+		<use x="0" y="0" transform="translate(30, 3) rotate(240)" xlink:href="#line" />
+		<use x="0" y="0" transform="translate(53, 16) rotate(300)" xlink:href="#line" />
+	</g>
+</svg>

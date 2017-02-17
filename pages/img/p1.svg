@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="21cm" height="12cm" viewBox="-25 -25 590 362" preserveAspectRatio="xMinYMin meet">
+<!-- Wikimedia Bug #4388: title>Wallpaper group p1</title -->
+  <desc>
+This is the structure diagram of the walpaper group p1
+
+I, the creator of this work, hereby release it into the public domain.
+This applies worldwide.
+
+In case this is not legally possible, I grant anyone the right
+to use this work for any purpose, without any conditions.
+</desc>
+  <clipPath id="tile">
+    <polygon points="0,312 400,312 540,0 140,0"/>
+  </clipPath>
+  <g stroke="#000000" stroke-width="3" fill="none">
+    <g stroke="#999999" fill="#cccccc" clip-path="url(#tile)">
+      <g transform="translate(0,312) rotate(0) scale(-1,-1) translate(0,312) scale(-1,-1)">
+        <polygon points="0,312 400,312 540,0 140,0 "/>
+        <path stroke="#000000" fill="none" d="M 270 156 m -20 10 l 40 0 0 -20 m -10 10 l 0 10"/>
+      </g>
+      <g fill="#ffff00">
+        <polygon points="0,312 400,312 540,0 140,0 "/>
+        <path stroke="#000000" fill="none" d="M 270 156 m -20 10 l 40 0 0 -20 m -10 10 l 0 10"/>
+      </g>
+    </g>
+  </g>
+</svg>

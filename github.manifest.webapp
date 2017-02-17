@@ -1,0 +1,17 @@
+{
+	"version": "1.0",
+	"name": "Wallpaper Groups",
+	"description": "Learn about wallpaper groups",
+	"size": 65066,
+	"package_path": "https://schnark.github.io/wallpaper/wallpaper.zip",
+	"icons": {
+		"128": "/icon128.png",
+		"512": "/icon512.png"
+	},
+	"developer": {
+		"name": "Michael Müller",
+		"url": "https://github.com/Schnark"
+	},
+	"installs_allowed_from": ["*"],
+	"default_locale": "en"
+}

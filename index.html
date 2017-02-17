@@ -1,0 +1,44 @@
+<!DOCTYPE HTML>
+<html><head><title>Wallpaper Groups</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, user-scalable=no">
+<link rel="apple-touch-icon" sizes="180x180" href="icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="icons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="icons/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="icons/manifest.json">
+<link rel="mask-icon" href="icons/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="icons/favicon.ico">
+<meta name="msapplication-config" content="icons/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="style.css">
+<script>
+if (navigator.serviceWorker && !(navigator.mozApps && navigator.mozApps.installPackage)) {
+	navigator.serviceWorker.register('sw.js');
+}
+</script>
+</head><body>
+<header><h1>Wallpaper Groups</h1></header>
+<div class="content">
+<p>This app allows you to determine and explore wallpaper groups. Either answer some questions, or select the group via Conway’s orbifold notation or the crystallographic notation. Then you’ll be shown the basic cell (or the most general cell of all possilbe ones) together with the symmetries (rotation centers with their order shown by the number of corners, mirror lines as double lines, and glide reflections as dashed lines).</p>
+<p><a href="pages/q.html" class="button">Determine group</a></p>
+<p><ul class="compact">
+<li><a href="pages/p1.html">o (p1)</a></li>
+<li><a href="pages/p2.html">2222 (p2, p211)</a></li>
+<li><a href="pages/pm.html">** (pm, p1m1)</a></li>
+<li><a href="pages/pg.html">×× (pg, p1g1)</a></li>
+<li><a href="pages/cm.html">*× (cm, c1m1)</a></li>
+<li><a href="pages/pmm.html">*2222 (pmm, p2mm)</a></li>
+<li><a href="pages/pmg.html">22* (pmg, p2mg)</a></li>
+<li><a href="pages/pgg.html">22× (pgg, p2gg)</a></li>
+<li><a href="pages/cmm.html">2*22 (cmm, c2mm)</a></li>
+<li><a href="pages/p4.html">442 (p4)</a></li>
+<li><a href="pages/p4m.html">*442 (p4m, p4mm)</a></li>
+<li><a href="pages/p4g.html">4*2 (p4g, p4gm)</a></li>
+<li><a href="pages/p3.html">333 (p3)</a></li>
+<li><a href="pages/p3m1.html">*333 (p3m1)</a></li>
+<li><a href="pages/p31m.html">3*3 (p31m)</a></li>
+<li><a href="pages/p6.html">632 (p6)</a></li>
+<li><a href="pages/p6m.html">*632 (p6m, p6mm)</a></li>
+</ul></p>
+</div>
+</body></html>
