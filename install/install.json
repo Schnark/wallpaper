@@ -1,0 +1,17 @@
+{
+	"@comment": "Note that the code to transform these data into a webpage is in https://github.com/Schnark/schnark.github.io",
+	"title": {
+		"en": "Wallpaper Groups – App for Firefox OS",
+		"de": "Ornamentgruppen – App für Firefox OS"
+	},
+	"serviceworker": true,
+	"icon": "icon128.png",
+	"screenshots": [
+		"2017-04-18-17-50-10.png",
+		"2017-04-18-17-50-17.png"
+	],
+	"desc": {
+		"en": ["This app allows you to learn about wallpaper groups and helps you determining them."],
+		"de": ["Diese App lässt dich Ornamentgruppen studieren und hilft dir dabei, sie zu identifizieren."]
+	}
+}
