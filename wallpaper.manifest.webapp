@@ -1,8 +1,8 @@
 {
-	"version": "1.1",
+	"version": "1.2",
 	"name": "Wallpaper Groups",
 	"description": "Learn about wallpaper groups",
-	"size": 65067,
+	"size": 65082,
 	"package_path": "http://localhost:8080/wallpaper.zip",
 	"icons": {
 		"128": "/icon128.png",
